@@ -1,0 +1,46 @@
+<svg width="564px" height="504px" viewBox="0 0 564 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <title>face-10</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Face/-10" transform="translate(-220.000000, -367.000000)" stroke="#000000" stroke-width="24">
+            <path d="M532,379 C664.54834,379 772,486.45166 772,619 C772,751.54834 684.54834,899 592,899 C535.13263,899 351.668898,801.612202 313.752775,718.980575 L313.322946,718.989282 L312,719 C267.81722,719 232,683.18278 232,639 C232,599.134956 261.158843,566.080325 299.312086,560.00055 C325.599297,455.979213 419.809919,379 532,379 Z M295.858895,624.545187 L304.141105,655.454813" id="face-10"></path>
+        </g>
+    </g>
+
+    <title>eyes-2</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Eyes/-2" transform="translate(-538.000000, -516.000000)" fill="#000000">
+            <path d="M570,516 C587.673112,516 602,530.326888 602,548 C602,565.673112 587.673112,580 570,580 C552.326888,580 538,565.673112 538,548 C538,530.326888 552.326888,516 570,516 Z M708,516 C725.673112,516 740,530.326888 740,548 C740,565.673112 725.673112,580 708,580 C690.326888,580 676,565.673112 676,548 C676,530.326888 690.326888,516 708,516 Z" id="eyes-2"></path>
+        </g>
+    </g>
+
+    <title>eyebrows-5</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Eyebrows/-5" transform="translate(-504.000000, -458.000000)" stroke="#000000" stroke-width="24">
+            <g id="eyebrows-5" transform="translate(517.000000, 471.000000)">
+                <line x1="1" y1="27.4172651" x2="76.8548788" y2="2" id="Path" transform="translate(38.927439, 14.708633) rotate(2.524843) translate(-38.927439, -14.708633) "></line>
+                <line x1="166" y1="27.4172651" x2="241.854879" y2="2" id="Path" transform="translate(203.927439, 14.708633) scale(-1, 1) rotate(2.524843) translate(-203.927439, -14.708633) "></line>
+            </g>
+        </g>
+    </g>
+
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 8C8 8 74 22 106 22C138 22 168 12.5283 168 12.5283C168 12.5283 167 81 97 81C27 81 8 8 8 8Z" stroke="black" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <title>nose-10</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Nose/-10" transform="translate(-623.000000, -571.000000)" stroke="#000000" stroke-width="16">
+            <path d="M631,694.380659 C660.333333,687.46022 678,677.333333 684,664 C693,644 637.033407,606.392531 660.161467,579" id="nose-10"></path>
+        </g>
+    </g>
+
+    <title>hair-10</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Hairstyle/-10" transform="translate(-205.000000, -205.000000)" fill="#000000" stroke="#000000" stroke-width="12">
+            <path d="M372.389019,247.786108 C470.684335,198.180121 573.70651,196.436019 608.362378,256.461743 C610.594634,260.328124 612.477899,264.333125 614.022301,268.457607 C631.340767,263.485869 647,261 661,261 C682,261 743,269 760,290 C777,311 777,343 753,387 C737,416.333333 714,434 684,440 C625.671273,414 577.671273,401 540,401 C502.328727,401 464.662061,403.666667 427,409 C427.442658,419.124205 429.109325,429.457538 432,440 C434.890675,450.542462 438.890675,460.875795 444,471 C418.42303,487.163731 403.86212,499.704664 400.317272,508.622798 C395,522 390.731457,594.198681 386.316755,653.134075 L386.17725,655 L366.146153,655 L328.203914,564.824988 L287.169322,564.824988 C280.297784,539.338819 275.760795,517.438139 273.558355,499.122947 C267.794015,498.334154 260.905776,498.267484 252.894736,498.92407 L252,499 L242.594545,455.98087 L211.196591,446.233717 C244.398864,351.411239 298.129673,285.262036 372.389019,247.786108 Z" id="hair-10"></path>
+        </g>
+    </g>
+
+<path fill-rule="evenodd" clip-rule="evenodd" d="M78.3066 7.69238C78.3066 7.69238 54.8025 28.737 46.1567 46.5151C37.511 64.2932 32.2009 102.499 32.2009 102.499C32.2009 102.499 41.7649 65.2804 49.827 48.7025C57.8891 32.1246 78.3066 7.69238 78.3066 7.69238Z" fill="black" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45.1396 14.9678C45.1396 14.9678 35.5867 30.2073 32.775 38.3685C29.9632 46.5297 27.5274 59.1987 29.5545 60.2043C31.5817 61.2099 32.4451 46.8484 34.592 39.0263C36.739 31.2042 45.1396 14.9678 45.1396 14.9678Z" fill="black" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

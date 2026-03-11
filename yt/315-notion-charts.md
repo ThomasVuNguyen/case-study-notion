@@ -5,5 +5,9 @@
 
 ![Notion Charts](../images/315-notion-charts.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] n [Music] [Applause]"
 

@@ -5,5 +5,9 @@
 
 ![Notion AI: Analyze PDFs and Images](../images/328-notion-ai-analyze-pdfs-and-images.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] n [Music] n [Music]"
 

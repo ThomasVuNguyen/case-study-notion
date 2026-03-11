@@ -5,5 +5,9 @@
 
 ![엔터프라이즈 기능을 담은 Notion](../images/260-notion.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] [Applause] [Music] la [Music] la"
 

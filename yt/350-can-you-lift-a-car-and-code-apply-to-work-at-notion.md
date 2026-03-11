@@ -5,5 +5,9 @@
 
 ![Can You Lift A Car And Code? Apply to work at #notion](../images/350-can-you-lift-a-car-and-code-apply-to-work-at-notion.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"come come come Comey are you watching go [Music] go okay okay never mind"
 

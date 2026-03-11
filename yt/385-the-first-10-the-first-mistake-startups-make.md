@@ -5,5 +5,9 @@
 
 ![The first 10: the first mistake startups make.](../images/385-the-first-10-the-first-mistake-startups-make.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"For the first 10, it's keep as high a bar as possible. Like this advice is redundant intentionally. Uh don't compromise. I remember we were incredibly patient for our first 10. Um and that is because those people will shape the next hundred, right? And will be the most important decisions that you make in scaling your company. [Music]"
 

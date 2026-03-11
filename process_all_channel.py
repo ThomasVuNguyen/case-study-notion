@@ -77,21 +77,27 @@ def process_video(i, v):
     url = f"https://www.youtube.com/watch?v={vid_id}"
     vtt_base = f"yt/temp_{vid_id}"
     
-    # Run yt-dlp to dump json and download subtitles
-    cmd = [
-        yt_dlp_cmd, "--write-auto-sub", "--write-sub", 
-        "--sub-lang", "en", "--sub-format", "vtt", 
-        "--skip-download", "--dump-json", "--no-warnings", 
-        "-o", f"{vtt_base}.%(ext)s", url
+    # First get metadata
+    cmd_meta = [
+        yt_dlp_cmd, "--dump-json", "--no-warnings", url
     ]
-    res = subprocess.run(cmd, capture_output=True, text=True)
-    if res.returncode != 0:
-        return f"Failed {vid_id}"
+    res_meta = subprocess.run(cmd_meta, capture_output=True, text=True)
+    if res_meta.returncode != 0:
+        return f"Failed metadata {vid_id}"
         
     try:
-        data = json.loads(res.stdout)
+        data = json.loads(res_meta.stdout)
     except json.JSONDecodeError:
-        return f"Failed metadata {vid_id}"
+        return f"Failed parsed metadata {vid_id}"
+        
+    # Second, download subtitles
+    cmd_sub = [
+        yt_dlp_cmd, "--write-auto-sub", "--write-sub", 
+        "--sub-lang", "en", "--sub-format", "vtt", 
+        "--skip-download", "--no-warnings", 
+        "-o", f"{vtt_base}.%(ext)s", url
+    ]
+    subprocess.run(cmd_sub, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         
     title = data.get('title', 'Unknown Title')
     upload_date = data.get('upload_date', 'Unknown')

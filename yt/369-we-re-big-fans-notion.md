@@ -5,5 +5,9 @@
 
 ![We’re big fans. #notion](../images/369-we-re-big-fans-notion.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"Excuse me. Do you work here?"
 

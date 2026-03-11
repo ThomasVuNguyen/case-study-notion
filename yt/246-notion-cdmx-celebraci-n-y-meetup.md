@@ -5,5 +5,9 @@
 
 ![Notion CDMX Celebración y Meetup](../images/246-notion-cdmx-celebraci-n-y-meetup.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] what's up here foreign [Music]"
 

@@ -5,5 +5,9 @@
 
 ![For all of life's launches 🐣🍼](../images/080-for-all-of-life-s-launches.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] do [Music] do [Music] hello hey now seriously okay okay i'm coming [Music] you"
 

@@ -1,0 +1,49 @@
+<svg width="564px" height="504px" viewBox="0 0 564 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <title>face-3</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Face/-3" transform="translate(-220.000000, -367.000000)" stroke="#000000" stroke-width="24">
+            <path d="M532,379 C664.54834,379 772,486.45166 772,619 C772,751.54834 704.54834,899 532,899 C402.610491,899 332.317998,816.086314 305.249034,718.717925 C264.225797,715.291578 232,680.909158 232,639 C232,599.134956 261.158843,566.080325 299.312086,560.00055 C325.599297,455.979213 419.809919,379 532,379 Z M295.858895,624.545187 L304.141105,655.454813" id="face-3"></path>
+        </g>
+    </g>
+
+    <title>eyes-2</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Eyes/-2" transform="translate(-538.000000, -516.000000)" fill="#000000">
+            <path d="M570,516 C587.673112,516 602,530.326888 602,548 C602,565.673112 587.673112,580 570,580 C552.326888,580 538,565.673112 538,548 C538,530.326888 552.326888,516 570,516 Z M708,516 C725.673112,516 740,530.326888 740,548 C740,565.673112 725.673112,580 708,580 C690.326888,580 676,565.673112 676,548 C676,530.326888 690.326888,516 708,516 Z" id="eyes-2"></path>
+        </g>
+    </g>
+
+    <title>eyebrows-8</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Eyebrows/-8" transform="translate(-522.000000, -482.000000)" stroke="#000000" stroke-width="16">
+            <g id="eyebrows-8" transform="translate(530.000000, 490.000000)">
+                <path d="M64,10 C59.1947065,3.33333333 51.1947065,0 40,0 C28.8052935,0 15.4719602,3.33333333 0,10" id="Path"></path>
+                <path d="M218,10 C213.194706,3.33333333 205.194706,0 194,0 C182.805294,0 169.47196,3.33333333 154,10" id="Path" transform="translate(186.000000, 5.000000) scale(-1, 1) translate(-186.000000, -5.000000) "></path>
+            </g>
+        </g>
+    </g>
+
+    <title>mouth-3</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Mouth/-3" transform="translate(-467.000000, -721.000000)" stroke="#000000" stroke-width="16">
+            <g id="mouth-3" transform="translate(475.000000, 729.000000)">
+                <path d="M66,41.0869565 C93.79487,40.6243036 114.628203,38.8851732 128.5,35.8695652 C142.371797,32.8539572 161.538463,25.8974355 186,15" id="Path"></path>
+                <path d="M161,25.4347826 C161,49.7826087 153.5,65.4347826 138.5,72.3913043 C123.5,79.3478261 101.833333,68.9130435 73.5,41.0869565" id="Path"></path>
+                <path d="M2.14164194,45 C-1.3880481,36.6867754 -0.554714768,27.8534421 4.64164194,18.5 C9.83799864,9.14655793 17.3379986,2.97989127 27.1416419,0" id="Path"></path>
+            </g>
+        </g>
+    </g>
+
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.51613 3C7.51613 3 18.2224 8.69809 26 17C32.6427 24.0906 35.296 34.2946 39 45C42.5781 55.3416 54.5563 64.0699 54 72C51.2903 110.626 3 112.16 3 112.16C3 112.16 55 112 59 71.855C60.0047 61.7714 47.4515 54.9713 43 45C38.1683 34.1771 36 22 28 16C19.8807 9.9105 7.51613 3 7.51613 3Z" fill="black" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+<path fill-rule="evenodd" clip-rule="evenodd" d="M403 11.9999C258 40.9999 187.651 169.553 157 243C126.349 316.447 126 470 126 596C126 722 6 840 6 840H296C296 840 395.049 626.694 364 596C332.951 565.306 256 479 256 479C256 479 176 465 176 399C176 333 230 326 255 326C280 326 324 207 431 159C538 111 631.325 199.865 652 221C697 267 708 328 708 399C708 435.67 702.252 482.763 685 564C680.416 585.585 587 840 587 840H725C725 840 721.56 808.95 725 798C737.31 758.814 757.378 733.044 763 705C777.588 632.231 751.322 515.18 751 498C749.177 400.781 776.688 393.08 763 300C757.343 261.531 752.535 197.476 702 134C651.465 70.5233 608 75.9999 608 75.9999C608 75.9999 548 -17.0001 403 11.9999Z" fill="black" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <title>beard-6</title>
+    <g id="All-customizable-items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Beard/-6" transform="translate(-556.000000, -703.000000)" fill="#000000" stroke="#000000" stroke-width="12">
+            <path d="M671.118678,718.2216 C669.299174,707.737669 688.858843,708.193492 698.41124,710.016784 C704.779504,711.232312 724.642424,716.246366 758,725.058946 C701.292121,727.490002 672.331681,725.210887 671.118678,718.2216 Z M648.881322,718.2216 C647.668319,725.210887 618.707879,727.490002 562,725.058946 C595.357576,716.246366 615.220496,711.232312 621.58876,710.016784 C631.141157,708.193492 650.700826,707.737669 648.881322,718.2216 Z" id="beard-6"></path>
+        </g>
+    </g>
+
+</svg>

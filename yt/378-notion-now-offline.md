@@ -5,5 +5,11 @@
 
 ![Notion, now offline](../images/378-notion-now-offline.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"Creativity doesn't always wait for a wi-fi signal, and now you don't have to either. Sometimes our best ideas show up in the most unexpected places. On mountaintops... ...deep in the woods... ...across the ocean... ...or even in the middle of nowhere. With Notion offline mode, your imagination can go wherever you go. So build. Dream. Create. Wherever you are. Our"
+
+"best ideas don't wait for wi-fi. Now, neither does Notion."
 

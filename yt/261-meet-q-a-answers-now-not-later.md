@@ -5,5 +5,9 @@
 
 ![Meet Q&A: Answers now, not later](../images/261-meet-q-a-answers-now-not-later.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] what [Music]"
 

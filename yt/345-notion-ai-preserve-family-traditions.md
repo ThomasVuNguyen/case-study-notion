@@ -5,5 +5,9 @@
 
 ![Notion AI: Preserve family traditions](../images/345-notion-ai-preserve-family-traditions.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"a [Music] n [Music]"
 

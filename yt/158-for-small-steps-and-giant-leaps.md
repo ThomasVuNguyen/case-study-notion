@@ -5,5 +5,9 @@
 
 ![For small steps. And giant leaps 📦✈️](../images/158-for-small-steps-and-giant-leaps.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] you"
 

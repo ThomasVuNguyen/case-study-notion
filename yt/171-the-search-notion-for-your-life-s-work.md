@@ -5,5 +5,9 @@
 
 ![The Search | Notion: For your life's work](../images/171-the-search-notion-for-your-life-s-work.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] uh [Music]"
 

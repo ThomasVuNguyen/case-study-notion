@@ -5,5 +5,11 @@
 
 ![Make with Notion 2024: Inside the San Francisco event](../images/342-make-with-notion-2024-inside-the-san-francisco-event.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] everyone's moving everyone's vibrant Energy's High I'm having a good time the biggest impression so far has been the opening keyot by Ivan and it's been really inspiring to see the growth of notion it's historic right it's the first time that you've had an inperson event for this tool that is frankly just so beloved by a huge Community"
+
+"the Magan notion experience has been invigorating inspiring electrifying exhilarating m [Music]"
 

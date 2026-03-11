@@ -5,5 +5,9 @@
 
 ![Introducing Notion 3.0: Agents](../images/413-introducing-notion-3-0-agents.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"Heat. Heat. [Music] Heat. Heat. [Music] Thank you for today. [Music] [Applause] Oh my goodness."
 

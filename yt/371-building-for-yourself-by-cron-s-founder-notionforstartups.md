@@ -5,5 +5,11 @@
 
 ![Building For Yourself by Cron's Founder #notionforstartups](../images/371-building-for-yourself-by-cron-s-founder-notionforstartups.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"It was literally just like a toy and the only user was me. But that's typically like actually a pretty good place to start. If you build something that's useful for yourself, then at least you know it's useful for at least one person. And the cool thing about that is that if it's useful for one real person, even if"
+
+"that is you, you know, or it's more likely that there are other people just like you because you're not that unique."
 

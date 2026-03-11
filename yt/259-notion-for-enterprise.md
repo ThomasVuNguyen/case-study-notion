@@ -5,5 +5,9 @@
 
 ![Notion for enterprise](../images/259-notion-for-enterprise.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] [Applause] [Music] la [Music] la"
 

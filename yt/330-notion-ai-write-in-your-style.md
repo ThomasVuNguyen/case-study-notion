@@ -5,5 +5,9 @@
 
 ![Notion AI: Write in your style](../images/330-notion-ai-write-in-your-style.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] la [Music]"
 

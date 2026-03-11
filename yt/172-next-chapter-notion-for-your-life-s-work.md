@@ -5,5 +5,9 @@
 
 ![Next Chapter | Notion: For your life's work](../images/172-next-chapter-notion-for-your-life-s-work.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] [Applause] [Music] yes [Music] yes [Music]"
 

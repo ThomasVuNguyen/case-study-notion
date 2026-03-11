@@ -5,5 +5,9 @@
 
 ![Meet the all-in-one Notion AI for work](../images/366-meet-the-all-in-one-notion-ai-for-work.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[Music] Thank you very much for joining. [Music] Heat. Heat. [Music]"
 

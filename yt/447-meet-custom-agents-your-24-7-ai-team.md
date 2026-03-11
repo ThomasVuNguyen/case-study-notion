@@ -5,5 +5,9 @@
 
 ![Meet Custom Agents: Your 24/7 AI Team](../images/447-meet-custom-agents-your-24-7-ai-team.jpg)
 
-*(Transcript not available)*
+## Transcript
+
+**[Voiceover]**
+
+"[music] No, no, no. &gt;&gt; [music] [music] &gt;&gt; Heat. Heat. &gt;&gt; [music]"
 
